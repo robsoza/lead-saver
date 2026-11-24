@@ -12,4 +12,4 @@ A lightweight, local-first Manifest V3 Chrome extension to save prospects from a
 
 ## Privacy
 
-Read the [Privacy Policy](https://YOUR-USERNAME.github.io/lead-saver/privacy-policy.html).
+Read the [Privacy Policy](https://robsoza.github.io/lead-saver/privacy-policy.html).
